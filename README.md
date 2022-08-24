@@ -67,16 +67,11 @@ npm install pdf-kit
 ![alt text](./assets/manage_invoice.png)
 
 ### Github URL: 
-https://github.com/jgislaszapata/Invoice-Manager
+https://github.com/Sivaparam/invoice_manager
 
 ### Live URL: 
 https://invoice-manager-pro.herokuapp.com/
 
-### Contributors: 
- - Aldo Pelayo || Github: aldopelayo
- - Oluwaseyi M Oshinowo || Github: applespicy
- - Shubhra Salunke || Github: shubhra8
- - Sivaranjani Jayaprakash || Github: Sivaparam
- - Jesus Islas || Github: jgislaszapata
+
 
 
