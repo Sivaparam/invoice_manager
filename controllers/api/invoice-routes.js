@@ -81,20 +81,6 @@ router.get('/new', async (req, res) => {
     res.status(500).json(err);
   }
   });
-// router.post('/new', async(req, res) => {
-//     try {
-//         const clientData = await Client.create({
-//         invoice_number: req.body.name,
-//         amount: req.body.email,
-//         due_date: req.body.phone,
-//         memo:req.body.memo,
-//         id:req.body.id,
-//         });
-//         res.status(200).json(clientData);
-//       } catch (err) {
-//         res.status(400).json(err);
-//       }
-// });
 
 
 //find invoice by ref_num(primary key)
